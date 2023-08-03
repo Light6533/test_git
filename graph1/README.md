@@ -34,11 +34,10 @@ UML 圖表
 ### 循序圖
 
 ```sequence
-艾莉絲->包柏: 哈摟，你好嗎？
-Note right of 包柏: 包柏思考中
-包柏-->艾莉絲: 我很好，謝謝！
-Note left of 艾莉絲: 艾莉絲回應
-艾莉絲->包柏: 最近過得怎樣？
+Andrew->China: Says Hello
+Note right of China: China thinks\nabout it
+China-->Andrew: How are you?
+Andrew->>China: I am good thanks!
 ```
 [更多關於 **循序圖** 語法 <i class="fa fa-external-link"></i>](http://bramp.github.io/js-sequence-diagrams/)
 &nbsp;
